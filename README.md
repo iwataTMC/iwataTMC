@@ -24,11 +24,15 @@
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwataTMC&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iwataTMC&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwataTMC&theme=github)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwatatmc&show_icons=true&locale=en&layout=compact" alt="iwatatmc" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwatatmc&show_icons=true&locale=en" alt="iwatatmc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwataTMC&show_icons=true&locale=en" alt="iwataTMC" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwataTMC&show_icons=true&locale=en" alt="iwataTMC" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwataTMC&" alt="iwataTMC" /></p>
+<br><br><br>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iwataTMC&" alt="iwataTMC" /></p>
 
 <small>Generate by [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</small>
