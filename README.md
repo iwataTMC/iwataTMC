@@ -23,6 +23,8 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="./terraform-seeklogo.svg" alt="terraform" width="40" height="40"/> </a>
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwataTMC&theme=github)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iwatatmc&show_icons=true&locale=en&layout=compact" alt="iwatatmc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iwataTMC&show_icons=true&locale=en" alt="iwataTMC" /></p>
