@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Misaki Iwata (handle name : kai)</h1>
+<h1 align="center">Hi there 👋, I'm kai</h1>
 <h3 align="center">Software Engineer / SRE / DevSecOps</h3>
 
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!%20Welcome%20to%20my%20page!%20)](https://github.com/kawarimidoll/typograssy)
