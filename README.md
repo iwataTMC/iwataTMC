@@ -35,6 +35,9 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=iwataTMC&" alt="iwataTMC" /></p>
 
+---
 <img src="https://raw.githubusercontent.com/iwataTMC/iwataTMC/output/snake.svg" alt="Snake animation" />
+
+---
 
 <small>Generate by [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</small>
