@@ -1,4 +1,4 @@
-## Hi there 👋
+## *Hi there 👋*
 
 [![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!%20Welcome%20to%20my%20page!%20)](https://github.com/kawarimidoll/typograssy)
 
