@@ -40,4 +40,4 @@
 
 ---
 
-<small>Generate by [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</small>
+<small>Generate by [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) , [profile-readme-generator](https://profile-readme-generator.com/)</small>
